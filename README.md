@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to code.
 
-  [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashkr28)](https://github.com/Akashkr28/github-readme-stats)
+  [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashkr28&show_icons=true&theme=transparent))](https://github.com/Akashkr28/github-readme-stats)
