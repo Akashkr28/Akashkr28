@@ -25,7 +25,7 @@ billing, reconciliation, reporting, the boring stuff that eats people's afternoo
 ## Currently
 
 - Building a RAG project and an AI-assisted bank reconciliation tool
-- Writing about what I learn on [Hashnode](HASHNODE_LINK)
+- Writing about what I learn on [Hashnode](https://hashnode.com/@akashkr28)
 
 ## Contact
 
