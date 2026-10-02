@@ -10,10 +10,9 @@ billing, reconciliation, reporting, the boring stuff that eats people's afternoo
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **CheckGrid** | A real-time grid of 1 million checkboxes that many users can toggle at once. State lives in a Redis bitfield and updates go out over WebSockets with Redis Pub/Sub. | Node, Express, WebSockets, Redis, OAuth 2.0 | [Code](REPO_LINK) · [Live](DEMO_LINK) |
-| **Travel Billing App** | Internal invoicing tool for a tour and travel company. Staff create invoices while the AI layer writes trip summaries, suggests charges and flags anything that looks off. | React, Node, PostgreSQL, Prisma, Redis, LLM API | [Code](REPO_LINK) · [Live](DEMO_LINK) |
-| **ProcessIQ** | Research engine that analyses 100 business processes and scores where AI could help, built end to end in two days for an engineering challenge. | React, Node, SQLite, Groq | [Code](REPO_LINK) |
-| **SENTINEL** | Prompt injection attack and defence playground. You try to break the model; it shows which defence caught you and why. | React, Node, Claude API | [Code](REPO_LINK) |
+| **CheckGrid** | A real-time grid of 1 million checkboxes that many users can toggle at once. State lives in a Redis bitfield and updates go out over WebSockets with Redis Pub/Sub. | Node, Express, WebSockets, Redis, OAuth 2.0 | [Code](https://github.com/Akashkr28/1-million-checkboxes) · [Live](https://million-checkboxes-xtg8.onrender.com/) |
+| **ProcessIQ** | Research engine that analyses 100 business processes and scores where AI could help, built end to end in two days for an engineering challenge. | React, Node, SQLite, Groq | [Code](https://github.com/Akashkr28/ProcessIQ) |
+| **SENTINEL** | Prompt injection attack and defence playground. You try to break the model; it shows which defence caught you and why. | React, Node, Claude API | [Code](https://github.com/Akashkr28/Sentinel_Prompt_Injection_Attack_and_Defense) |
 
 ## Stack
 
@@ -30,4 +29,4 @@ billing, reconciliation, reporting, the boring stuff that eats people's afternoo
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-2a3503364/) · EMAIL: akashkumarsingh816@gmail.com
+[LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-2a3503364/) · [Email](mailto:akashkumarsingh816@gmail.com)
